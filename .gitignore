@@ -35,3 +35,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Packages
+Packages/
+
+# Plugins
+Assets/Plugins/
+Magick.NET-Q8-x64.Native.dll
+packages.config
